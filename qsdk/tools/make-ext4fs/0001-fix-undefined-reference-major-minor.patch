@@ -1,0 +1,9 @@
+--- a/contents.c        2021-02-07 15:37:31.463251930 +0800
++++ b/contents.c        2021-02-07 15:37:03.022743240 +0800
+@@ -15,6 +15,7 @@
+  */
+ 
+ #include <sys/stat.h>
++#include <sys/sysmacros.h>
+ #include <string.h>
+ #include <stdio.h>
